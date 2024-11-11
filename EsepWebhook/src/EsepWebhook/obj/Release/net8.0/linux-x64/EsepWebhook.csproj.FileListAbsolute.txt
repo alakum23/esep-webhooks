@@ -16,3 +16,4 @@
 /Users/anushkalakum/Documents/ESEP2024/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.pdb
 /Users/anushkalakum/Documents/ESEP2024/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.genruntimeconfig.cache
 /Users/anushkalakum/Documents/ESEP2024/esep-webhooks/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/ref/EsepWebhook.dll
+/Users/anushkalakum/Documents/ESEP2024/esep-webhooks/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/Newtonsoft.Json.dll
